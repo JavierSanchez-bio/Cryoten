@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 # **************************************************************************
 # *
-# * Authors:     Javier Sanchez (scipion@cnb.csic.es)
+# * Authors:     you (you@yourinstitution.email)
 # *
-# * CNB - CSIC
+# * your institution
 # *
 # * This program is free software; you can redistribute it and/or modify
 # * it under the terms of the GNU General Public License as published by
@@ -32,7 +32,7 @@ journal = "...",
 volume = "...",
 number = ".",
 pages = "1 - 6",
-year = "2024",
+year = "2019",
 issn = "0000-1111",
 doi = "https://dx.doi.org/xxxxx/xxxxx",
 url = "https://www.url",
